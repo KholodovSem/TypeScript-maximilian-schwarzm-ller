@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "lodash": "^4.17.21"
   }
 }
